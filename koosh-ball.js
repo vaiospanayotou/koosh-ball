@@ -1,3 +1,7 @@
+//=========================
+// Koosh Ball with Three.js
+//=========================
+
 let palette = [
   new THREE.Color("#00ffff"),
   new THREE.Color("#ff00ff"),
